@@ -1,0 +1,23 @@
+# Ignore build files
+/build/
+*.o
+*.exe
+*.class
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache (if using Python)
+__pycache__/
+*.pyc
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore history files
+.history
+.vscode
